@@ -267,6 +267,3 @@ print(me.motto())
   <i>"Secure the system. Train the model. Repeat." 🔐🤖</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
-</p>
