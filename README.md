@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Hariram%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hariram%20K&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&amp;descAlignY=62&amp;descSize=16" />
 </p>
 
 <p align="center">
@@ -266,5 +266,5 @@ print(me.motto())
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 </p>
