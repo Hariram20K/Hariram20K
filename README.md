@@ -1,242 +1,276 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:bf91f3&height=200&section=header&text=Hariram%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Cybersecurity%20Analyst&descAlignY=60&descSize=18&descColor=c9d1d9" alt="Header" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Hariram+K+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Cybersecurity+%26+Zero+Trust+Analyst+%F0%9F%94%90;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80;Open+to+Opportunities+%26+Collaborations+%E2%9C%A8" alt="Typing SVG" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariram-karthikeyan&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/hariram-karthikeyan?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white" alt="Followers"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hariram%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&descAlignY=62&descSize=16" />
+</p>
 
-🧑‍💻 About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-javapublic class HariramK {
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=hariramk&label=Profile+Views&color=70a5fd&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=hariramk&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://linkedin.com/in/hariram-karthikeyan-1ba321291">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hariramlakshmi20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hariramlakshmi20-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-    String name         = "Hariram K";
-    String location     = "Tirupathur, Tamil Nadu, India 🇮🇳";
-    String degree       = "B.Tech – AI & Data Science @ KSRCT (2023–2027)";
-    String email        = "hariramlakshmi20@gmail.com";
+---
 
-    String[] stack      = {
-        "Java", "C", "C++", "Python",
-        "HTML", "CSS", "JavaScript",
-        "Data Visualization", "Dashboard Dev"
-    };
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Cybersecurity+Analyst+%7C+Zero+Trust+Advocate+%F0%9F%94%90;Ethical+Hacker+%7C+Bug+Hunter+%F0%9F%90%9B;Building+Secure+%26+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-    String[] learning   = {
-        "Advanced Machine Learning",
-        "Zero Trust Cloud Security (Zscaler)",
-        "Ethical Hacking & Penetration Testing",
-        "Deep Learning & Neural Networks"
-    };
+---
 
-    String funFact      = "Scored 98% in 10th boards & never stopped pushing 🎯";
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About Me
 
-    String motto() {
-        return "\"Data is the new oil — I'm the refinery.\" ⚡";
-    }
-}
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+# hariram.py — Cybersecurity × AI Engineer
+
+class HariramK:
+    def __init__(self):
+        self.name             = "Hariram K"
+        self.location         = "Tirupathur, Tamil Nadu, India 🇮🇳"
+        self.degree           = "B.Tech — AI & Data Science (2023–2027)"
+        self.college          = "K.S.Rangasamy College of Technology"
+        self.cgpa             = 7.8
+
+        self.languages        = ["C", "C++", "Java", "Python"]
+        self.web              = ["HTML", "CSS", "JavaScript"]
+        self.ai_skills        = ["Data Analysis", "Data Visualization",
+                                  "Dashboard Development", "AI Fundamentals"]
+        self.cyber_skills     = ["Ethical Hacking", "Bug Hunting",
+                                  "Zero Trust Security", "Cloud Security"]
+
+        self.currently_learning = [
+            "Advanced Zero Trust Architecture",
+            "Penetration Testing Techniques",
+            "Machine Learning & Deep Learning",
+            "Cloud Security (Zscaler / AWS)"
+        ]
+
+        self.fun_fact         = "I scored 98% in 10th boards & never stopped grinding 🎯"
+
+    def motto(self) -> str:
+        return "Secure the system. Train the model. Repeat. 🔐🤖"
+
+me = HariramK()
+print(me.motto())
+```
+
 <br clear="right"/>
 
-🎓 Pursuing B.Tech in Artificial Intelligence & Data Science at KSRCT (CGPA: 7.8/10)
-🔐 Completed Zero Trust Cloud Security Internship with EduSkills & Zscaler (AICTE)
-🤖 Worked as AI Intern at CYFOTOK Infosec LLP — applied real-world AI methodologies
-🛡️ Certified Ethical Hacking & Bug Hunting Trainee (CEH-oriented)
-📊 Built an IMDb Movie Analysis Dashboard analyzing 1,000+ movie records
-📫 Reach me: hariramlakshmi20@gmail.com
-🔗 LinkedIn: hariram-karthikeyan-1ba321291
+---
 
+## 🛠️ Tech Stack & Tools
 
-🛠️ Tech Stack & Tools
-💻 Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</div>
-🌐 Web Technologies
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
-🤖 AI & Data Analytics
-<div>
-  <img src="https://img.shields.io/badge/Data%20Analysis-38BDAE?style=flat-square&logo=databricks&logoColor=white" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-BF91F3?style=flat-square&logo=tableau&logoColor=white" alt="Data Visualization"/>
-  <img src="https://img.shields.io/badge/AI%20Fundamentals-70A5FD?style=flat-square&logo=openai&logoColor=white" alt="AI Fundamentals"/>
-  <img src="https://img.shields.io/badge/Dashboard%20Dev-FF6B6B?style=flat-square&logo=grafana&logoColor=white" alt="Dashboard Dev"/>
-</div>
-🔐 Cybersecurity
-<div>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-E34F26?style=flat-square&logo=hackthebox&logoColor=white" alt="Ethical Hacking"/>
-  <img src="https://img.shields.io/badge/Bug%20Hunting-38BDAE?style=flat-square&logo=bugcrowd&logoColor=white" alt="Bug Hunting"/>
-  <img src="https://img.shields.io/badge/Zero%20Trust%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Zero Trust"/>
-  <img src="https://img.shields.io/badge/Zscaler-00AAE4?style=flat-square&logo=zscaler&logoColor=white" alt="Zscaler"/>
-</div>
-🧰 Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-📊 GitHub Stats
+### 🌐 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+### 🤖 AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-38BDAE?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-BF91F3?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard%20Dev-70A5FD?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Fundamentals-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+### 🔐 Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-222222?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug%20Hunting-EF4444?style=flat-square&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero%20Trust%20Security-0066FF?style=flat-square&logo=zscaler&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH%20Oriented-DC2626?style=flat-square&logo=hackthebox&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zscaler-0066FF?style=flat-square&logo=zscaler&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <a href="https://github.com/hariram-karthikeyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariram-karthikeyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Hariram's GitHub Stats"/>
+  <a href="https://github.com/hariramk">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariramk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/hariram-karthikeyan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariram-karthikeyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/hariramk">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariramk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
-🔐 Cybersecurity Analyst | 🤖 AI Engineer & Developer
+---
+
+## 🔥 Streak Stats
+
 <div align="center">
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██████╗██╗   ██╗██████╗ ███████╗██████╗     ██████╗ ███████╗██╗   ║
-║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ║
-║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚═╝   ║
-║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ██████╔╝███████╗██╗   ║
-║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚═╝   ║
-║                                                                      ║
-║         🛡️  SECURITY FIRST  ·  🤖  AI POWERED  ·  🚀  INNOVATE       ║
-╚══════════════════════════════════════════════════════════════════════╝
-</div>
-🛡️ Cybersecurity Analyst Skills
-<div align="center">
-DomainExpertiseLevel🔍 Vulnerability AssessmentSecurity Testing · Attack Vector Analysis██████████░ Intermediate🕵️ Ethical HackingCEH Methodology · Penetration Concepts████████░░░ Learning🔐 Zero Trust SecurityZscaler · Identity & Access Management██████████░ Intermediate☁️ Cloud SecuritySecure Architecture · Risk Assessment█████████░░ Intermediate🪲 Bug HuntingResponsible Disclosure · Security Auditing████████░░░ Learning🌐 Network SecurityAccess Control · Secure Network Design██████████░ Intermediate
-</div>
-🤖 AI Engineer & Developer Skills
-<div align="center">
-DomainExpertiseLevel📊 Data AnalysisStatistical Analysis · Pattern Recognition██████████░ Intermediate📈 Data VisualizationDashboard Dev · IMDb 1K+ Records Analyzed███████████ Proficient🧠 AI FundamentalsModel Concepts · AI Implementation█████████░░ Intermediate💻 Software DevelopmentJava · C · C++ · Python · JS███████████ Proficient🌐 Web DevelopmentHTML · CSS · JavaScript · Frontend█████████░░ Intermediate🔬 Research & AnalysisInsight Generation · Reporting██████████░ Intermediate
+  <img src="https://streak-stats.demolab.com?user=hariramk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
-🧠 Dual Identity — What I Bring to the Table
+---
+
+## 📈 Activity Graph
+
 <div align="center">
-pythonclass HariramK:
-    """
-    ╔════════════════════════════════════════╗
-    ║  AI Engineer  +  Cybersecurity Analyst ║
-    ╚════════════════════════════════════════╝
-    """
-
-    # ── 🛡️  CYBERSECURITY SIDE ─────────────────────────────────────────
-    cyber_skills = {
-        "offensive"  : ["Ethical Hacking", "Bug Hunting", "Penetration Testing"],
-        "defensive"  : ["Zero Trust Security", "Cloud Security", "Risk Assessment"],
-        "frameworks" : ["CEH Methodology", "OWASP", "Zscaler Zero Trust"],
-        "mindset"    : "Think like an attacker → defend like a guardian 🔐"
-    }
-
-    # ── 🤖  AI / DEVELOPER SIDE ────────────────────────────────────────
-    ai_skills = {
-        "languages"  : ["Java", "C", "C++", "Python", "JavaScript"],
-        "domains"    : ["Machine Learning", "Data Analytics", "Dashboard Dev"],
-        "projects"   : ["IMDb Movie Analysis Dashboard (1000+ records)"],
-        "philosophy" : "Data tells stories — I build the stage 🎭"
-    }
-
-    # ── 🚀  WHERE BOTH WORLDS MEET ─────────────────────────────────────
-    superpower = "AI-Powered Cybersecurity Solutions"
-
-    def mission(self):
-        return (
-            "Build intelligent systems that are secure by design,\n"
-            "and secure systems that are intelligent by nature. ⚡"
-        )
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariramk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
-💼 Work Experience
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hariramk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
+
+---
+
+## 💼 Professional Experience
+
 <details>
-  <summary><b>🛡️ EduSkills & Zscaler (AICTE Virtual Internship) — Zero Trust Cloud Security Intern &nbsp;|&nbsp; Apr 2025 – Jun 2025 &nbsp;|&nbsp; Remote, India</b></summary>
+  <summary>🏢 <strong>Zero Trust Cloud Security Intern</strong> — EduSkills & Zscaler (AICTE) &nbsp;|&nbsp; Apr 2025 – Jun 2025 &nbsp;|&nbsp; Remote, India</summary>
   <br/>
 
-Focus Areas:
-Zero Trust Security Cloud Security Network Architecture Access Control Identity-Based Security Risk Assessment
+  > ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0066FF?style=flat-square&logo=zscaler&logoColor=white)
+  > ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+  > ![Access Control](https://img.shields.io/badge/Access%20Control-38BDAE?style=flat-square&logoColor=white)
+  > ![AICTE](https://img.shields.io/badge/AICTE%20Certified-BF91F3?style=flat-square&logoColor=white)
 
-
-🔐 Completed a 10-week structured internship focused on Zero Trust Cloud Security principles and frameworks
-🌐 Mastered secure network architecture concepts, access control mechanisms, and identity-based security approaches
-🏢 Applied Zero Trust concepts to simulated enterprise scenarios through guided learning modules and practical exercises
-☁️ Enhanced cloud security awareness and risk assessment capabilities across modern cloud environments
-
-</details>
-<details>
-  <summary><b>🤖 CYFOTOK Infosec LLP — Artificial Intelligence Intern &nbsp;|&nbsp; Oct 2024 – Nov 2024 &nbsp;|&nbsp; India</b></summary>
-  <br/>
-
-Focus Areas:
-Artificial Intelligence Real-World AI Use Cases Project Documentation Security Analytics Industry AI Methods
-
-
-🧠 Participated in industrial AI training working under experienced Security Analyst professionals on real-world use cases
-🛠️ Contributed to AI-related projects and applied analytical thinking to solve complex project challenges
-📋 Assisted in project execution and documentation; learned industry-standard AI implementation methodologies
-🏅 Earned recognition for dedication, adaptability, and consistent contributions throughout the program
-
-</details>
-<details>
-  <summary><b>🕵️ CYFOTOK Infosec LLP — Ethical Hacking & Bug Hunting Trainee &nbsp;|&nbsp; Aug 2024 &nbsp;|&nbsp; India</b></summary>
-  <br/>
-
-Focus Areas:
-CEH Methodology Ethical Hacking Vulnerability Assessment Security Testing Cybersecurity Frameworks
-
-
-🎯 Completed a 6-week CEH-oriented training covering cybersecurity fundamentals and ethical hacking methodologies
-🔍 Explored vulnerability assessment concepts, security testing practices, and responsible security assessment techniques
-⚔️ Acquired practical exposure to common security threats, attack vectors, and industry-standard cybersecurity frameworks
-🎓 Earned training certification upon successful completion of the program
+  - 📅 Completed a **10-week structured internship** focused on Zero Trust Cloud Security principles and frameworks.
+  - 🔐 Learned **secure network architecture**, identity-based access control, and modern cloud security mechanisms.
+  - 🧪 Applied Zero Trust concepts to **simulated enterprise scenarios** through guided learning modules.
+  - ☁️ Enhanced **cloud security risk assessment** capabilities across modern cloud environments.
 
 </details>
 
-🚀 Featured Projects
+<details>
+  <summary>🏢 <strong>Artificial Intelligence Intern</strong> — CYFOTOK Infosec LLP &nbsp;|&nbsp; Oct 2024 – Nov 2024 &nbsp;|&nbsp; India</summary>
+  <br/>
+
+  > ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  > ![Security Analysis](https://img.shields.io/badge/Security%20Analysis-EF4444?style=flat-square&logo=hackthebox&logoColor=white)
+  > ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-70A5FD?style=flat-square&logo=databricks&logoColor=white)
+
+  - 🤖 Worked under experienced **Security Analyst professionals** on real-world AI use cases.
+  - 📊 Contributed to **AI-related projects** applying analytical thinking to solve complex challenges.
+  - 📝 Assisted in project execution and documentation, learning **industry AI implementation methodologies**.
+  - 🌟 Earned recognition for **dedication, adaptability, and consistent contributions** throughout the program.
+
+</details>
+
+<details>
+  <summary>🏢 <strong>Ethical Hacking & Bug Hunting Trainee</strong> — CYFOTOK Infosec LLP &nbsp;|&nbsp; Aug 2024 &nbsp;|&nbsp; India</summary>
+  <br/>
+
+  > ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-222222?style=flat-square&logo=kalilinux&logoColor=white)
+  > ![CEH](https://img.shields.io/badge/CEH%20Oriented-DC2626?style=flat-square&logoColor=white)
+  > ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-BF91F3?style=flat-square&logoColor=white)
+
+  - 🕵️ Completed **6-week CEH-oriented training** covering cybersecurity fundamentals and ethical hacking methodologies.
+  - 🔍 Explored **vulnerability assessment**, security testing practices, and responsible security assessment techniques.
+  - ⚠️ Acquired practical exposure to **common attack vectors**, security threats, and industry-standard frameworks.
+  - 🎓 Earned **training certification** upon successful completion of the program.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-🗂️ Project🛠️ Stack✨ Highlights🎬 Movie Analysis DashboardData Analysis Data Visualization Dashboard Dev IMDb DatasetAnalyzed 1,000+ IMDb movie records; explored ratings, revenues, genre trends & actor-director performance correlations with interactive visual representations
+
+| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
+|:---|:---|:---|
+| [🎬 Movie Analysis Dashboard](https://github.com/hariramk) | Python · Data Visualization · IMDb Dataset | Analyzed **1,000+ IMDb Top movie records**; built interactive dashboards tracking ratings, revenues & genre trends; uncovered actor-director performance correlations |
+
 </div>
 
-🏅 Achievements
+---
+
+## 🎖️ Achievements & Certifications
+
 <div align="center">
-🎖️AchievementDetails🛡️AICTE Zero Trust Cloud Security InternshipCompleted with EduSkills & Zscaler — 10-week structured program (2025)🤖AI Industrial Internship CompletionCYFOTOK Infosec LLP — Real-world AI project contributions (2024)🕵️CEH-Oriented Cybersecurity CertificationEthical Hacking & Bug Hunting — 6-week intensive training (2024)📊Movie Analysis DashboardBuilt end-to-end analytics dashboard on IMDb Top 1000 dataset🥇10th Standard Board ExamAchieved outstanding 98% score — Vailankanni Matric Hr. Sec. School (2020)
+
+| 🏅 | Achievement | Details |
+|:---:|:---|:---|
+| 🔐 | AICTE Virtual Internship — Zero Trust Cloud Security | EduSkills & Zscaler · **2025** |
+| 🤖 | AI Industrial Internship Completion | CYFOTOK Infosec LLP · **2024** |
+| 🛡️ | CEH-Oriented Cybersecurity Training Certification | Ethical Hacking & Bug Hunting · **2024** |
+| 📊 | Academic Project — Movie Analysis Dashboard | IMDb Top 1000 Dataset · **2024–Present** |
+| 🏆 | Secondary School Examination — 10th Standard | Scored **98%** · Vailankanni Matric Hr. Sec. School · **2020** |
+
 </div>
 
-🎓 Education
+---
+
+## 🎓 Education
+
 <div align="center">
-🎓 Degree🏛️ Institution📅 Year📈 ScoreB.Tech – Artificial Intelligence & Data ScienceK.S.Rangasamy College of Technology (KSRCT)2023 – 2027CGPA: 7.8 / 10Higher Secondary (12th Standard)Vijaya Shanthi Vidyalaya Matric Hr. Sec. School202278%Secondary School (10th Standard)Vailankanni Matric Hr. Sec. School202098% 🥇
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
+|:---|:---|:---:|:---:|
+| B.Tech — Artificial Intelligence & Data Science | K.S.Rangasamy College of Technology (KSRCT) | 2023–2027 | **CGPA: 7.8 / 10** |
+| Higher Secondary (12th Standard) | Vijaya Shanthi Vidyalaya Matric Hr. Sec. School | 2022 | **78%** |
+| Secondary School (10th Standard) | Vailankanni Matric Hr. Sec. School | 2020 | **98%** 🏆 |
+
 </div>
 
-🌱 Currently Learning
-🤖 Machine Learning        →  Supervised & Unsupervised Algorithms, Model Evaluation
-🧠 Deep Learning           →  Neural Networks, CNNs, RNNs, Transformers
-🔐 Cloud Security          →  Zero Trust Architecture, Zscaler, Identity & Access Management
-🛡️ Penetration Testing     →  Advanced Ethical Hacking, OWASP Top 10, CTF Challenges
-📊 Data Science            →  Feature Engineering, Statistical Analysis, Predictive Modeling
-🌐 Web Development         →  JavaScript Frameworks, REST APIs, Full-Stack Basics
+---
 
-🤝 Let's Connect
-<div align="center">
-  <a href="mailto:hariramlakshmi20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
+## 🧠 Currently Learning
+
+```text
+🔐 Zero Trust Architecture  →  Micro-segmentation · Identity Access Management · SASE Framework
+🛡️ Penetration Testing      →  Kali Linux · Metasploit · OWASP Top 10 · CTF Challenges
+🤖 Machine Learning          →  Supervised Learning · Neural Networks · Scikit-learn · TensorFlow
+☁️ Cloud Security            →  AWS Security · Zscaler ZIA/ZPA · IAM Policies · Threat Intelligence
+📊 Advanced Data Science     →  Pandas · NumPy · Matplotlib · Dashboard Automation
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/hariram-karthikeyan-1ba321291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hariram%20Karthikeyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/hariram-karthikeyan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:hariramlakshmi20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hariramlakshmi20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  &nbsp;
+  <a href="https://github.com/hariramk">
+    <img src="https://img.shields.io/badge/GitHub-hariramk-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Secure the system. Train the model. Repeat." 🔐🤖</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</p>
