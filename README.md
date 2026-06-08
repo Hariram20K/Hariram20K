@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hariram%20K&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&amp;descAlignY=62&amp;descSize=16" />
 </p>
+<h1 align="center">Hi, I'm Hariram K 👋</h1>
+
+<h3 align="center">AI & Cybersecurity Engineer | Zero Trust Advocate | Data-Driven Problem Solver</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/hariram-karthikeyan-1ba321291">
@@ -11,7 +14,6 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
-
 ---
 
 <p align="center">
