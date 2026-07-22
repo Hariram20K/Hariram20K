@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hariram%20K&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&amp;descAlignY=62&amp;descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hariram%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Cybersecurity%20Engineer%20%7C%20Zero%20Trust%20Advocate%20%7C%20Data-Driven%20Problem%20Solver&descAlignY=62&descSize=16" />
 </p>
+
 <h1 align="center">Hi, I'm Hariram K 👋</h1>
 
 <h3 align="center">AI & Cybersecurity Engineer | Zero Trust Advocate | Data-Driven Problem Solver</h3>
@@ -14,6 +15,11 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hariram20K&label=Profile%20Views&color=70A5FD&style=flat-square" />
+</p>
+
 ---
 
 <p align="center">
@@ -26,6 +32,13 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+I'm an AI & Data Science undergraduate who's equally at home training a model and hardening a network. My interests sit at the intersection of **Zero Trust security**, **cloud security**, and **applied AI/ML** — I like building systems that are both intelligent and hard to break into.
+
+- 🔭 Currently deepening my skills in **Zero Trust Architecture** and **Penetration Testing**
+- 🌱 Learning **Machine Learning & Deep Learning** fundamentals alongside **Cloud Security (AWS / Zscaler)**
+- 🛡️ Passionate about **ethical hacking**, **bug hunting**, and secure-by-design systems
+- 🎯 Fun fact: scored **98%** in my 10th boards and never stopped grinding
+
 <details>
   <summary>👨‍💻 Click to view my profile in code</summary>
 
@@ -37,15 +50,15 @@ class HariramK:
         self.name             = "Hariram K"
         self.location         = "Tirupathur, Tamil Nadu, India 🇮🇳"
         self.degree           = "B.Tech — AI & Data Science (2023–2027)"
-        self.college          = "K.S.Rangasamy College of Technology"
-        self.cgpa             = 7.8
+        self.college           = "K.S.Rangasamy College of Technology"
+        self.cgpa              = 7.8
 
-        self.languages        = ["C", "C++", "Java", "Python"]
-        self.web              = ["HTML", "CSS", "JavaScript"]
-        self.ai_skills        = ["Data Analysis", "Data Visualization",
-                                  "Dashboard Development", "AI Fundamentals"]
-        self.cyber_skills     = ["Ethical Hacking", "Bug Hunting",
-                                  "Zero Trust Security", "Cloud Security"]
+        self.languages          = ["C", "Java", "Python"]
+        self.web                = ["HTML", "CSS", "JavaScript"]
+        self.ai_skills          = ["Data Analysis", "Data Visualization",
+                                    "Dashboard Development", "AI Fundamentals"]
+        self.cyber_skills       = ["Ethical Hacking", "Bug Hunting",
+                                    "Zero Trust Security", "Cloud Security"]
 
         self.currently_learning = [
             "Advanced Zero Trust Architecture",
@@ -54,7 +67,7 @@ class HariramK:
             "Cloud Security (Zscaler / AWS)"
         ]
 
-        self.fun_fact         = "I scored 98% in 10th boards & never stopped grinding 🎯"
+        self.fun_fact = "I scored 98% in 10th boards & never stopped grinding 🎯"
 
     def motto(self) -> str:
         return "Secure the system. Train the model. Repeat. 🔐🤖"
@@ -74,7 +87,6 @@ print(me.motto())
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
@@ -193,18 +205,6 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [🎬 Movie Analysis Dashboard](https://github.com/Hariram20K) | Python · Data Visualization · IMDb Dataset | Analyzed **1,000+ IMDb Top movie records**; built interactive dashboards tracking ratings, revenues & genre trends; uncovered actor-director performance correlations |
-
-</div>
-
----
-
 ## 🎖️ Achievements & Certifications
 
 <div align="center">
@@ -214,7 +214,6 @@ print(me.motto())
 | 🔐 | AICTE Virtual Internship — Zero Trust Cloud Security | EduSkills & Zscaler · **2025** |
 | 🤖 | AI Industrial Internship Completion | CYFOTOK Infosec LLP · **2024** |
 | 🛡️ | CEH-Oriented Cybersecurity Training Certification | Ethical Hacking & Bug Hunting · **2024** |
-| 📊 | Academic Project — Movie Analysis Dashboard | IMDb Top 1000 Dataset · **2024–Present** |
 | 🏆 | Secondary School Examination — 10th Standard | Scored **98%** · Vailankanni Matric Hr. Sec. School · **2020** |
 
 </div>
@@ -266,4 +265,3 @@ print(me.motto())
 <p align="center">
   <i>"Secure the system. Train the model. Repeat." 🔐🤖</i>
 </p>
-
